@@ -83,3 +83,10 @@ Run each command separately from the repository's main folder:
 
 Each task folder contains its own README with methods,
 results and output descriptions.
+
+
+## Project Demonstration Videos
+
+- [Task 1: Titanic Survival Prediction](https://drive.google.com/file/d/141YBHgPt5NZFsAwc6OCJeGhMmXuzcWiJ/view?usp=sharing)
+- [Task 2: Unemployment Analysis](https://drive.google.com/file/d/1w87y5NzqwXgFVMhvv4-rWGOHVachSPQe/view?usp=sharing)
+- [Task 3: Housing Price Prediction](https://drive.google.com/file/d/1UKKwT72XbH5uxjNDtlq-55knUyIn8kQV/view?usp=sharing)
